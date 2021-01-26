@@ -1,0 +1,50 @@
+U:\Kütüphane\kütüphane\kütüphane\bin\Debug\kütüphane.exe
+U:\Kütüphane\kütüphane\kütüphane\bin\Debug\kütüphane.pdb
+U:\Kütüphane\kütüphane\kütüphane\obj\x86\Debug\ResolveAssemblyReference.cache
+U:\Kütüphane\kütüphane\kütüphane\obj\x86\Debug\kütüphane.Properties.Resources.resources
+U:\Kütüphane\kütüphane\kütüphane\obj\x86\Debug\GenerateResource.read.1.tlog
+U:\Kütüphane\kütüphane\kütüphane\obj\x86\Debug\GenerateResource.write.1.tlog
+U:\Kütüphane\kütüphane\kütüphane\obj\x86\Debug\kütüphane.exe
+U:\Kütüphane\kütüphane\kütüphane\obj\x86\Debug\kütüphane.pdb
+U:\Kütüphane\kütüphane\kütüphane\obj\x86\Debug\kütüphane.Form1.resources
+U:\Kütüphane\kütüphane\kütüphane\obj\x86\Debug\kütüphane.kitapkayıt.resources
+U:\Kütüphane\kütüphane\kütüphane\obj\x86\Debug\kütüphane.yazar.resources
+U:\Kütüphane2\kütüphane\kütüphane\obj\x86\Debug\kütüphane.exe
+U:\Kütüphane2\kütüphane\kütüphane\obj\x86\Debug\kütüphane.pdb
+U:\Kütüphane2\kütüphane\kütüphane\bin\Debug\kütüphane.exe
+U:\Kütüphane2\kütüphane\kütüphane\bin\Debug\kütüphane.pdb
+U:\Kütüphane2\kütüphane\kütüphane\obj\x86\Debug\ResolveAssemblyReference.cache
+U:\Kütüphane2\kütüphane\kütüphane\obj\x86\Debug\kütüphane.Form1.resources
+U:\Kütüphane2\kütüphane\kütüphane\obj\x86\Debug\kütüphane.kitapkayıt.resources
+U:\Kütüphane2\kütüphane\kütüphane\obj\x86\Debug\kütüphane.Properties.Resources.resources
+U:\Kütüphane2\kütüphane\kütüphane\obj\x86\Debug\kütüphane.yazar.resources
+U:\Kütüphane2\kütüphane\kütüphane\obj\x86\Debug\GenerateResource.read.1.tlog
+U:\Kütüphane2\kütüphane\kütüphane\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\ORG 9\Desktop\Kütüphane2\kütüphane\kütüphane\obj\x86\Debug\kütüphane.exe
+C:\Users\ORG 9\Desktop\Kütüphane2\kütüphane\kütüphane\obj\x86\Debug\kütüphane.pdb
+C:\Users\ORG 9\Desktop\Kütüphane2\kütüphane\kütüphane\bin\Debug\kütüphane.exe
+C:\Users\ORG 9\Desktop\Kütüphane2\kütüphane\kütüphane\bin\Debug\kütüphane.pdb
+C:\Users\ORG 9\Desktop\Kütüphane2\kütüphane\kütüphane\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\ORG 9\Desktop\Kütüphane2\kütüphane\kütüphane\obj\x86\Debug\kütüphane.Form1.resources
+C:\Users\ORG 9\Desktop\Kütüphane2\kütüphane\kütüphane\obj\x86\Debug\kütüphane.kitapkayıt.resources
+C:\Users\ORG 9\Desktop\Kütüphane2\kütüphane\kütüphane\obj\x86\Debug\kütüphane.Properties.Resources.resources
+C:\Users\ORG 9\Desktop\Kütüphane2\kütüphane\kütüphane\obj\x86\Debug\kütüphane.yazar.resources
+C:\Users\ORG 9\Desktop\Kütüphane2\kütüphane\kütüphane\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\ORG 9\Desktop\Kütüphane2\kütüphane\kütüphane\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\ORG 9\Desktop\Kütüphane4\kütüphane\kütüphane\obj\x86\Debug\kütüphane.exe
+C:\Users\ORG 9\Desktop\Kütüphane4\kütüphane\kütüphane\obj\x86\Debug\kütüphane.pdb
+C:\Users\ORG 9\Desktop\Kütüphane4\kütüphane\kütüphane\bin\Debug\kütüphane.exe
+C:\Users\ORG 9\Desktop\Kütüphane4\kütüphane\kütüphane\bin\Debug\kütüphane.pdb
+C:\Users\ORG 9\Desktop\Kütüphane4\kütüphane\kütüphane\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\ORG 9\Desktop\Kütüphane4\kütüphane\kütüphane\obj\x86\Debug\kütüphane.Form1.resources
+C:\Users\ORG 9\Desktop\Kütüphane4\kütüphane\kütüphane\obj\x86\Debug\kütüphane.kitapkayıt.resources
+C:\Users\ORG 9\Desktop\Kütüphane4\kütüphane\kütüphane\obj\x86\Debug\kütüphane.Properties.Resources.resources
+C:\Users\ORG 9\Desktop\Kütüphane4\kütüphane\kütüphane\obj\x86\Debug\kütüphane.yazar.resources
+C:\Users\ORG 9\Desktop\Kütüphane4\kütüphane\kütüphane\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\ORG 9\Desktop\Kütüphane4\kütüphane\kütüphane\obj\x86\Debug\GenerateResource.write.1.tlog
+U:\Kütüphane4\kütüphane\kütüphane\obj\x86\Debug\kütüphane.exe
+U:\Kütüphane4\kütüphane\kütüphane\obj\x86\Debug\kütüphane.pdb
+C:\Users\Tinas\Desktop\ekrem\Kütüphane4\kütüphane\kütüphane\obj\x86\Debug\kütüphane.exe
+C:\Users\Tinas\Desktop\ekrem\Kütüphane4\kütüphane\kütüphane\obj\x86\Debug\kütüphane.pdb
+D:\FORM\ekrem\Kütüphane4\kütüphane\kütüphane\obj\x86\Debug\kütüphane.exe
+D:\FORM\ekrem\Kütüphane4\kütüphane\kütüphane\obj\x86\Debug\kütüphane.pdb
